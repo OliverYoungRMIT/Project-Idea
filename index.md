@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### The Project
+[Career goals and education](https://oliveryoungrmit.github.io/Career/)
 
-You can use the [editor on GitHub](https://github.com/OliverYoungRMIT/Project-Idea/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Personality](https://oliveryoungrmit.github.io/My-Personality/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Introduction](https://oliveryoungrmit.github.io/My-Profile/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As a lover of video games, puzzles and Cybersecurity, my idea is to combine all three together and create a puzzle hacking game. The game would be intended to teach a wider audience the basic processes of hacking and Cybersecurity as well as OPSEC and the importance of online privacy. It would use a basic and primitive graphics and mirror the CLI and award extra points to the player for typing out full commands without using the in game reference sheet.
 
-```markdown
-Syntax highlighted code block
+Cybersecurity is an increasingly fast growing field and more and more people are becoming interested in the field, one of the hardest hurdles in learning any IT skills is knowing where to start. Prospective learners are often presented with too many choices, the 2004 book “The paradox of Choice” by psychologist Barry Schwartz posits that when presented with too many choices, the user will often be unable to pick or will feel overwhelmed by the amount of choices and will leave disappointed with the choice they made. I would like to present the field of Cybersecurity is an easy and digestible (as well as fun) way.
 
-# Header 1
-## Header 2
-### Header 3
+Delving a bit deeper in to the features, I would present a somewhat fantastical setting taking place in a cyberpunk and dystopian future taking inspiration from personal favourites such as Ghost in the Shell, Phillip K. Dick’s Neuromancer, 1984 and even more recent media such as Mr. Robot. Creating an interesting and compelling world and mythos with memorable characters and interactions around the hacking “minigames” is one of my core ideas in creating this game as I would like to reach a wider audience than just hardcore hackers. 
 
-- Bulleted
-- List
+By creating this world around the game that reels the player in, it will push them to delve deeper and deeper in to the game in order to uncover the secrets and character arcs. When presented with a particularly difficult puzzle it is important to give the player a “carrot-on-a-stick” so that they are not tempted to simply throw their hands in the air and give up.
 
-1. Numbered
-2. List
+The game will feature a combination of realistic command-line interface (CLI) commands and scripts in addition to an easy shortcut allowing the player to simply click on the servers and complete a small but simple puzzle, these puzzles will award fewer points and in some cases some extended lore and hidden servers can only be unlocked via the command-line interface. This is for two reasons – Firstly it will allow people already familiar with the CLI to not become quickly bored over the trivially easy tasks given to them while not alienating beginners. Secondly it will encourage the player to be driven to learn to use the CLI over the simple puzzles, the intent is that once the player masters the CLI they will be able to complete the tasks even faster than the puzzles, will be awarded more points and will even be able to access secrets that were previously unavailable to them.
 
-**Bold** and _Italic_ and `Code` text
+Beyond using the CLI I would also later introduce players to conversations and tasks requiring social engineering, tasks that can be only completed via making in-game phone calls to gather information as well as tasks that can be only completed by working with a team and talking to other hackers on IRC and other secure online communication devices in order to gather information and tips.
 
-[Link](url) and ![Image](src)
-```
+I have possibly considered the idea of creating a resource management system in which the player must manage their in-game life and health with their hacking life, players must earn money in order to pay things such as rent, electricity, food and even purchasing hacking software and bribing people, this money would be rewarded by taking on jobs for users and agencies, in some cases better pay may be met with hard moral decisions, do you take the well paying job to hack a political opponent for an overreaching government or do you turn down the money and take a lower paying job. This would be akin to the 2013 game “Papers please” - A game in which you play a border guard in a fictional communist country and must earn money in order to make ends meet and keep your family safe and well and in some cases must make hard moral choices in order to keep your family safe and alive.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I am most familiar with Unity currently and am fairly proficient in Python, due to the games realistic hacking nature, the game will also push me to learn more about Cybersecurity and hacking, including interviewing IT professionals for advice and tips. I am familiar with ethical hacking and the CLI but am by no means a professional. The skills required to create this game are extremely feasible to me, I have created multiple projects in Unity and the initial coding of the game would not be the most difficult part, it would be learning more about hacking.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OliverYoungRMIT/Project-Idea/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am a massive supporter of open source projects and would personally like to offer the game for free, however this may not be feasible. Even if the project is not seen to completion I will still have learnt much about Cybersecurity, hacking and creating a fully fledged game. In a way, it is as much a video game and teaching tool for others as it is a teaching tool for myself.
